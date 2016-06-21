@@ -9,3 +9,7 @@
 * Instalação ionic framework
 
 `sudo npm install -g cordova ionic`
+
+* Instalação pouchdb
+
+`npm install pouchdb`
